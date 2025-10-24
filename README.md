@@ -29,7 +29,11 @@ APPARATUS REQUIRED: Personal computer with Keil software
 
 
 **FLOW CHART:**
+
+
 <img width="261" height="308" alt="image" src="https://github.com/user-attachments/assets/bffe89f6-3ba9-4294-b817-8b545f680e66" />
+
+
 
 **Program:**
 ```
@@ -49,13 +53,23 @@ THICK: RET
 THIN:  
 END
 ```
+
+
 **Output:**  
+
+
 
 <img width="1197" height="383" alt="image" src="https://github.com/user-attachments/assets/fc85d922-0c14-4eab-9164-04f589af02e0" />
 
+
+
 **Manual Calculations:**  
 
+
+
 ![IMG-20251024-WA0034 1](https://github.com/user-attachments/assets/f0bdbebd-b7be-4625-93c0-6d48f6ece465)
+
+
 
 **Result:**
 
