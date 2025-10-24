@@ -51,24 +51,11 @@ END
 ```
 **Output:**  
 
-<br>
-<br>
-<br>
-
-
+<img width="1197" height="383" alt="image" src="https://github.com/user-attachments/assets/fc85d922-0c14-4eab-9164-04f589af02e0" />
 
 **Manual Calculations:**  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
+![IMG-20251024-WA0034 1](https://github.com/user-attachments/assets/f0bdbebd-b7be-4625-93c0-6d48f6ece465)
 
 **Result:**
 
