@@ -67,7 +67,8 @@ END
 
 
 
-![IMG-20251024-WA0034 1](https://github.com/user-attachments/assets/f0bdbebd-b7be-4625-93c0-6d48f6ece465)
+![IMG-20251101-WA0041 1](https://github.com/user-attachments/assets/91f46596-6d05-4e27-a049-7d292640c753)
+
 
 
 
